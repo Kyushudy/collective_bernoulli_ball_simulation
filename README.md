@@ -3,7 +3,7 @@ the code and dataset of collective Bernoulli-Ball simulation
 
 Simulation of Collective Bernoulli-Ball System for Characterising Dynamic Self-stability and State Transitions
 
-Fan Ye, Arsen Abdulali, Fumiya Iida
+by Fan Ye, Arsen Abdulali and Fumiya Iida
 
 University of Cambridge
 
